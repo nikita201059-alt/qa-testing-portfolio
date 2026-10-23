@@ -14,7 +14,7 @@
 ## 📄 Тестовые задания (PDF)
 
 * [Medical-app-QA-testing-1.pdf](./Medical-app-QA-testing-1.pdf) — Комплексное решение тестового задания (теория, тест-дизайн, баг-репорты, аналитика).
-* [Medical-app-QA-testing-2.pdf](./Medical-app-QA-testing-2.pdf) — Дополнительные материалы/результаты.
+* [Medical-app-QA-testing-2.pdf](./Medical-app-QA-testing-2.pdf) — Красочное оформление и структурированная подача материалов тестового задания.
 
 ## 🛠 Инструменты и навыки
 * Ручное тестирование веб-приложений (Desktop/Mobile)
