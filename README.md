@@ -16,6 +16,13 @@
 * [Medical-app-QA-testing-1.pdf](./Medical-app-QA-testing-1.pdf) — Комплексное решение тестового задания (теория, тест-дизайн, баг-репорты, аналитика).
 * [Medical-app-QA-testing-2.pdf](./Medical-app-QA-testing-2.pdf) — Красочное оформление и структурированная подача материалов тестового задания.
 
+## 🔌 API Testing (Postman)
+
+В данном разделе представлены артефакты тестирования REST API (CRUD-операции: GET, POST, PUT, PATCH) с автотестами на JavaScript:
+
+* **Коллекция запросов:** [My First API Tests.postman_collection.json](./My First API Tests.postman_collection.json) — готовый файл для импорта в Postman.
+* **Отчёт о прогоне тестов:** [Postman REST API Testing Portfolio Report.pdf](./Postman%20REST%20API%20Testing%20Portfolio%20Report.pdf) — подробный визуальный отчет с результатами валидации.
+
 ## 🛠 Инструменты и навыки
 * Ручное тестирование веб-приложений (Desktop/Mobile)
 * Тест-дизайн (классы эквивалентности, граничные значения)
