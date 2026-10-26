@@ -20,9 +20,9 @@
 
 В данном разделе представлены артефакты тестирования REST API (CRUD-операции: GET, POST, PUT, PATCH) с автотестами на JavaScript:
 
-* **Коллекция запросов:** [My First API Tests.postman_collection.json](./My First API Tests.postman_collection.json) — готовый файл для импорта в Postman.
+* **Коллекция запросов:** [My First API Tests.postman_collection.json](./My%20First%20API%20Tests.postman_collection.json) — готовый файл для импорта в Postman.
 * **Отчёт о прогоне тестов:** [Postman REST API Testing Portfolio Report.pdf](./Postman%20REST%20API%20Testing%20Portfolio%20Report.pdf) — подробный визуальный отчет с результатами валидации.
-
+  
 ## 🛠 Инструменты и навыки
 * Ручное тестирование веб-приложений (Desktop/Mobile)
 * Тест-дизайн (классы эквивалентности, граничные значения)
